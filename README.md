@@ -1,114 +1,78 @@
+<div align="center">
+
 # K4KU
 
-### Engenharia de Software • Python • Cibersegurança • Automação
+**Engenharia de Software · Python · Cibersegurança · Automação**
 
-Estudante de **Engenharia de Software** e desenvolvedor em formação, dedicado a transformar conhecimentos em Python, Linux e cibersegurança em projetos práticos e funcionais.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Meu foco atual está em construir software com **Python**, explorando automação, APIs, arquitetura de software e ferramentas voltadas para segurança.
+</div>
 
 ---
 
 ## Sobre mim
 
-- Estudante de Engenharia de Software
-- Desenvolvimento principalmente com Python
-- Experiência prática com Linux e Shell
-- Interesse em Cibersegurança e Segurança de Software
-- Desenvolvimento de ferramentas de automação
-- Desenvolvimento Web
-- Estudo contínuo de arquitetura, testes e boas práticas de engenharia de software
+Estudante de Engenharia de Software, com foco em Python, automação e cibersegurança. Gosto de entender como as coisas funcionam por dentro e transformar isso em ferramentas que resolvem problemas reais — seja automatizando uma tarefa, monitorando uma superfície de ataque ou construindo algo do zero.
+
+Hoje meu trabalho gira em torno de:
+
+- Desenvolvimento em Python (APIs, automação, ferramentas de linha de comando)
+- Linux e Shell no dia a dia
+- Cibersegurança: OSINT, automação de segurança, auditoria
+- Arquitetura de software, testes e boas práticas
 
 ---
 
-## Projetos em destaque
+## Projetos
 
-### Sytherion
+**Sytherion**
+Ecossistema modular de IA em Python, voltado para cibersegurança e experimentação com arquitetura de software.
+`Python` · `FastAPI` · `HTML` · `CSS` · `JavaScript`
+[github.com/K4KU404/Sytherion](https://github.com/K4KU404/Sytherion)
 
-Ecossistema modular de IA desenvolvido em Python, voltado para cibersegurança e experimentação com arquitetura de software.
-
-**Tecnologias:** Python • FastAPI • HTML • CSS • JavaScript
-
-[Ver projeto →](https://github.com/K4KU404/Sytherion)
-
----
-
-### vigia-asm
-
-Ferramenta de monitoramento contínuo de superfície de ataque, utilizando OSINT/ASM, comparação entre estados e geração de alertas.
-
-**Tecnologias:** Python • Automação • OSINT • ASM
-
-[Ver projeto →](https://github.com/K4KU404/vigia-asm)
+**vigia-asm**
+Ferramenta de monitoramento contínuo de superfície de ataque — OSINT/ASM, comparação entre estados e alertas.
+`Python` · `Automação` · `OSINT` · `ASM`
+[github.com/K4KU404/vigia-asm](https://github.com/K4KU404/vigia-asm)
 
 ---
 
-## Tecnologias
+## Stack
 
-**Linguagens**
-`Python` `JavaScript` `C` `HTML` `CSS`
-
-**Desenvolvimento**
-`Git` `GitHub` `FastAPI` `REST API` `SQL`
-
-**Sistemas**
-`Linux` `Shell Script` `Virtualização`
-
-**Cibersegurança**
-`OSINT` `Automação de Segurança` `Auditoria` `Segurança Web` `Segurança de Redes`
+| Linguagens | Desenvolvimento | Sistemas | Cibersegurança |
+|---|---|---|---|
+| Python | Git / GitHub | Linux | OSINT |
+| JavaScript | FastAPI | Shell Script | Automação de Segurança |
+| C | REST API | Virtualização | Auditoria |
+| HTML / CSS | SQL | | Segurança Web / Redes |
 
 ---
 
 ## Em estudo
 
 ```text
-Python
-├── Orientação a Objetos
-├── Arquitetura
-├── Testes
-└── APIs
-
-Engenharia de Software
-├── SOLID
-├── Clean Code
-├── Design Patterns
-└── Arquitetura de Software
-
-Cibersegurança
-├── Segurança Web
-├── Redes
-├── OSINT
-├── Automação
-└── Auditoria
-
-Sistemas
-├── Linux
-├── Shell
-└── Git
+Python              Engenharia de Software     Cibersegurança        Sistemas
+- OOP                - SOLID                    - Segurança Web       - Linux
+- Arquitetura        - Clean Code               - Redes               - Shell
+- Testes             - Design Patterns          - OSINT               - Git
+- APIs               - Arquitetura              - Automação
+                                                 - Auditoria
 ```
 
 ---
 
 ## Objetivo
 
-Construir projetos reais, aprender através da prática e desenvolver soluções que unam engenharia de software, automação e cibersegurança.
-
-Estou em busca de oportunidades — estágio, projetos ou trabalhos na área de tecnologia — para continuar evoluindo profissionalmente.
+Construir projetos reais, aprender na prática e desenvolver soluções que unam engenharia de software, automação e cibersegurança. Aberto a oportunidades de estágio, projetos e trabalhos na área.
 
 ---
 
-## Projetos
+<div align="center">
 
-| Projeto | Descrição |
-|---|---|
-| [Sytherion](https://github.com/K4KU404/Sytherion) | Ecossistema modular de IA para cibersegurança |
-| [vigia-asm](https://github.com/K4KU404/vigia-asm) | Monitoramento de superfície de ataque |
+[github.com/K4KU404](https://github.com/K4KU404)
 
----
+*Aprender → Construir → Testar → Corrigir → Documentar → Repetir.*
 
-## Contato
-
-**GitHub:** [@K4KU404](https://github.com/K4KU404)
-
----
-
-> **Aprender → Construir → Testar → Corrigir → Documentar → Repetir.**
+</div>
