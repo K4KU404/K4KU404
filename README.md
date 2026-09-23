@@ -65,7 +65,7 @@ Python              Engenharia de Software     Cibersegurança        Sistemas
 
 ## Objetivo
 
-Construir projetos reais, aprender na prática e desenvolver soluções que unam engenharia de software, automação e cibersegurança. Aberto a oportunidades de estágio, projetos e trabalhos na área.
+Construir projetos reais, aprender na prática e desenvolver soluções que unam engenharia de software, automação e cibersegurança.
 
 ---
 
